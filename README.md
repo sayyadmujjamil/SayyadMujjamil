@@ -10,18 +10,19 @@
 
 ---
 
-## 🧠 About Me
+## 🧑‍💻 About Me
 
-🎯 Android Developer building next-gen mobile experiences  
-🧪 Innovating with AI, Jetpack Compose, and Kotlin Multiplatform  
-🎨 Love UI/UX, Material You, and animations  
-📲 Creator of sleek, powerful, and scalable Android apps  
-🛠 Always tinkering with DevOps, KMM, AR/VR, and Wearables  
-💬 Philosophy: *"Write code like poetry. Debug like a detective."*
+I'm a Android developer who brings together **modern UI**, **smart architecture**, and **powerful DevOps practices** to craft seamless mobile experiences.
+
+- 🧩 Writing clean, scalable code with **Kotlin**, **Jetpack Compose**, and **MVVM**
+- 🔍 Exploring the edges of **AI, ML Kit**, and **TensorFlow Lite** in mobile apps
+- ☁️ Leveraging **Firebase** for real-time, scalable backend
+- 🔧 Automating with **Docker**, **Jenkins**, and **GitHub Actions**
+- 💬 Always curious, always learning, always shipping
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
@@ -34,11 +35,12 @@
 <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
 
 <!-- Networking -->
-<img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=retrofit&logoColor=white" />
-<img src="https://img.shields.io/badge/OkHttp-3B9A9C?style=for-the-badge&logo=okhttp&logoColor=white" />
-<img src="https://img.shields.io/badge/Volley-4CAF50?style=for-the-badge&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/Retrofit-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OkHttp-3B9A9C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Volley-4CAF50?style=for-the-badge" />
 
 <!-- DevOps -->
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
@@ -53,41 +55,38 @@
 
 ---
 
-## 🌈 Featured Projects
+## 📱 Featured Projects
 
-| 🧠 Project | 🚀 Description | 🔧 Tech |
-|-----------|----------------|---------|
-| **🤖 AI Chat App** | Chatbot using Gemini API & Compose | Kotlin, Compose, Firebase, AI |
-| **🏃 Fitness Tracker** | Health tracking with WearOS support | Sensors API, Jetpack Compose |
-| **🛍️ E-Commerce Template** | Modular design with slick UI/UX | Hilt, Navigation, Material 3 |
+| Project | Description | Tech |
+|--------|-------------|------|
+| **AI Chat Companion** 🤖 | Gemini API + Compose-powered AI chat app | Kotlin, Firebase, Compose, Gemini |
+| **Fitness Tracker** 🏃 | Real-time wearable sync + health metrics | Kotlin, Jetpack Compose, Sensors API |
+| **E-Commerce UI Kit** 🛍 | Fully modular & animated shopping UI | Compose, Material 3, Navigation |
 
-🎯 [Explore my projects →](https://github.com/your-github-username)
+🔗 [View all my projects →](https://github.com/sayyadmujjamil)
 
 ---
 
-## 📈 GitHub Vibes
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight&count_private=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" height="130">
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyadmujjamil&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayyadmujjamil&theme=transparent&hide_border=true" height="165">
 </p>
 
 ---
 
-## 📬 Let's Connect
+## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=about-dot-me&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=About.me&logoColor=white" /></a>
   <a href="mailto:sayyad.mujjamil@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧩 Fun Fact
+### ✨ Quote
 
-> *“I don’t just follow trends—I build what’s next.”* 🚀
+> *“Great apps aren't built overnight—they're composed pixel by pixel, line by line.”*  
+> — Sayyad Mujjamil
