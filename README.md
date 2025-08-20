@@ -81,8 +81,8 @@ I am an **Android Developer** with **2+ years of hands-on experience** in buildi
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=tokyonight" alt="Sayyad's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sayyadmujjamil&show_icons=true&theme=tokyonight" alt="Sayyad's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayyadmujjamil&layout=compact&theme=tokyonight" alt="Top Languages" height="165"/>
 </p>  
 
 ---
