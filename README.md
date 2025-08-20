@@ -89,7 +89,7 @@ I am an **Android Developer** with **2+ years of hands-on experience** in buildi
 
 ## 📫 Let's Connect  
 
-- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/sayyad-mujjamil-048945189/)  
 - 💻 [GitHub](https://github.com/)  
 - ✉️ sayyadmujjamil@example.com  
 
