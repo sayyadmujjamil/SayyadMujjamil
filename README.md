@@ -74,7 +74,7 @@ I am an **Android Developer** with **2+ years of hands-on experience** in buildi
 - 🔹 Strong expertise in **Native Android Development**  
 - 🔹 Developed apps with modern UI/UX using **Jetpack Compose**  
 - 🔹 Hands-on experience with **end-to-end app development**: idea → design → development → deployment  
-- 🔹 Open-source contributor & continuous learner  
+- 🔹 Continuous learner  
 
 ---
 
