@@ -1,11 +1,19 @@
 # 👋 Hi, I'm Sayyad Mujjamil  
 
+<!-- Banner and Greeting -->
 <p align="center">
-  <!-- Simple Header GIF -->
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="120px" height="120px" />
-</p>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=130&section=header&text=Sayyad+Mujjamil&fontSize=35&fontColor=fff" />
+  <br>
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="90" height="90" />
+</p>
 
-**Android Developer | Native App Specialist | Tech Enthusiast**  
+<p align="center">
+  <strong>Android Software Engineer • Native App Specialist • Tech Enthusiast</strong>
+  <br><br>
+ <!-- <img src="https://readme-typing-svg.herokuapp.com?color=3DDC84&size=22&multiline=true&width=500&height=50&lines=Welcome+to+my+GitHub+Profile." />-->
+</p>
+
+<!-- **Android Software Engineer | Native App Specialist | Tech Enthusiast** -->  
 
 I am an **Android Developer** with **2+ years of hands-on experience** in building high-quality, scalable, and user-friendly mobile applications. Passionate about crafting seamless digital experiences, I stay up-to-date with the **latest Android technologies** and best practices to deliver impactful solutions.  
 
