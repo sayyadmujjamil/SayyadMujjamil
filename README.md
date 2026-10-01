@@ -14,9 +14,9 @@
 
 ## 👨‍💻 About Me
 
-I am a **Native Android Developer** with **7+ months of hands-on professional experience**, focused on building scalable, production-oriented Android applications using modern Android development practices.
+I am a Native Android Developer with 2+ years of software development experience, including 1.8 years in Web Development and 7+ months in Native Android Development.
 
-I work primarily with **Kotlin, Jetpack Compose, MVVM, Clean Architecture, Coroutines, Flow, Room, Retrofit, Hilt, Firebase, and GitHub Actions**, with a strong focus on maintainable architecture, testing, security, and CI/CD.
+I build scalable, production-ready Android applications using Kotlin, Jetpack Compose, MVVM, Clean Architecture, Room, Hilt, Coroutines, Firebase, GitHub Actions and modern Android development practices with a strong focus on maintainable architecture, testing, security, and CI/CD.
 
 ---
 
